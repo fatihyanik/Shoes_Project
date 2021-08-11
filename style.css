@@ -480,6 +480,7 @@ header .fa-bars{
     color:#333;
     font-size: 2.5rem;
     padding:1rem 0;
+    text-align: center;
 }
 
 .footer .box-container .box a{
@@ -487,6 +488,7 @@ header .fa-bars{
     color:#666;
     font-size: 1.5rem;
     padding:1rem 0;
+    text-align: center;
 }
 
 .footer .box-container .box a:hover{
@@ -593,28 +595,6 @@ header .fa-bars{
     color:var(--green);
     text-decoration: line-through;
   }
-
-/* media queries  */
-@media (max-width:991px){
-    
-    html{
-        font-size: 55%;
-    }
-
-    header{
-        padding:2rem;
-    }
-
-    section{
-        padding:2rem;
-    }
-
-    .home{
-        background-position: left;
-    }
-
-}
-
 
 /* media queries  */
 @media (max-width:991px){
